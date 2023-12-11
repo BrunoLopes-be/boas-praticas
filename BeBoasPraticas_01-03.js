@@ -3,15 +3,15 @@ const apiUrl = "https://api.chucknorris.io/jokes/random/";
 
 https
   .get(apiUrl, (response) => {
-    let data = "";
+    let responseData = "";
 
     response.on("data", (chunk) => {
-      data += chunk;
+      responseData += chunk;
     });
 
     response.on("end", () => {
       try {
-        const jsonData = JSON.parse(data);
+        const jsonData = JSON.parse(responseData);
 
         console.log("Joke about Chuck Norris: ", jsonData.value);
       } catch (error) {
