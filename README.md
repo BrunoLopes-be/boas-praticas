@@ -2,11 +2,11 @@
 
 # Introdução
 
-    Projeto desenvolvido com base em boas práticas, padrões e dicas, voltado ao treinamento interno da Be.
+Projeto desenvolvido com base em boas práticas, padrões e dicas, voltado ao treinamento interno da Be.
 
 # Programa piadas aleatorias Chuck Norris - Desafio I
 
-    O desafio consiste em criar um programa que exiba no console uma piada aleatória que vem da api https://api.chucknorris.io/ 
+O desafio consiste em criar um programa que exiba no console uma piada aleatória que vem da api https://api.chucknorris.io/ 
 
 ## Rodando o Desafio
 
@@ -25,7 +25,7 @@
 ```
 # Organização e estruturação de código - Desafio II
 
-    Este desafio de código consistiu em organizar e estruturar um codigo usando as boas praticas e alguns padrões recomendados. Confira o script BeBoasPraticas_02-03.js para ver o resultado.
+Este desafio de código consistiu em organizar e estruturar um codigo usando as boas praticas e alguns padrões recomendados. Confira o script BeBoasPraticas_02-03.js para ver o resultado.
 
 ### Antes
 
@@ -67,7 +67,7 @@ function calculateDiscount(price) {
 ```
 # Planejamento e desenvolvimento - Desafio III
 
-    A proposta deste desafio reside na importância de estabelecer uma organização eficaz e definir prioridades antes de iniciar o desenvolvimento do código final. Nesse contexto, iniciei o processo com uma fase inicial de planejamento e estimativa de esforço, dedicando-me à definição da lógica necessária e à gestão do tempo para alcançar o produto final desejado. Este estágio inicial visa assegurar uma abordagem estruturada e eficiente durante todo o desenvolvimento.
+A proposta deste desafio reside na importância de estabelecer uma organização eficaz e definir prioridades antes de iniciar o desenvolvimento do código final. Nesse contexto, iniciei o processo com uma fase inicial de planejamento e estimativa de esforço, dedicando-me à definição da lógica necessária e à gestão do tempo para alcançar o produto final desejado. Este estágio inicial visa assegurar uma abordagem estruturada e eficiente durante todo o desenvolvimento.
 
 ```shell
 # 1. Rodando o projeto.
@@ -86,4 +86,4 @@ Gerenciamento tarefas através do terminal (prompt de comando).
 ```
 # Agradadecimentos
 
-    Expresso minha sincera gratidão pelo enfrentamento desses desafios do Onboarding. Iniciar uma nova jornada é sempre um desafio significativo, e isso não teria sido possível sem dedicação e comprometimento. Agradeço sinceramente pela oportunidade de demonstrar um pouco do que sou capaz.
+Expresso minha sincera gratidão pelo enfrentamento desses desafios do Onboarding. Iniciar uma nova jornada é sempre um desafio significativo, e isso não teria sido possível sem dedicação e comprometimento. Agradeço sinceramente pela oportunidade de demonstrar um pouco do que sou capaz.
