@@ -26,5 +26,5 @@ function calculate(p, q) {
 function calculateDiscount(price) {
     const PERCENTAGE_DISCOUNT = 0.1;
     
-    return price * PERCENTAGE_DISCOUNT * price;
+    return price - PERCENTAGE_DISCOUNT * price;
 }
